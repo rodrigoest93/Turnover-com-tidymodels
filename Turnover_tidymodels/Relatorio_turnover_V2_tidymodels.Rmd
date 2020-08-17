@@ -196,7 +196,7 @@ Podemos verificar em relação ao patamar salarial alguns pontos interessantes:
 
 *A empresa paga corretamente aqueles que mais produzem?*
 
-Esta vizualização abaixo é meio redudante, pois já falamos sobre este ponto, porém deixo aqui mais um opção para análise:
+Esta visualização abaixo é meio redudante, pois já falamos sobre este ponto, porém deixo aqui mais um opção para análise:
 
 ```{r, fig.align='center'}
 turnover %>% 
@@ -371,7 +371,7 @@ Com todas as análises feitas, nós podemos recomendar e direcionar alguns ponto
 
 - Veirificar se os direitos à licença médica estão sendo devidamente cumpridos, pois os funcionários que não exerceram esse direito tem mais chance de saída.
 
-No mais, a empresa deve também dar mais atenão à satisfação de seus colaboradores e rever o processo de avalição de performance para verificar se este está sendo devidamente coerente.
+No mais, a empresa deve também dar mais atenção à satisfação de seus colaboradores e rever o processo de avalição de performance para verificar se este está sendo devidamente coerente.
 
 
 # Comentários

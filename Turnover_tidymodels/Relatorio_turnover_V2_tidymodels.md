@@ -315,7 +315,7 @@ interessantes:
 
 *A empresa paga corretamente aqueles que mais produzem?*
 
-Esta vizualização abaixo é meio redudante, pois já falamos sobre este
+Esta visualização abaixo é meio redudante, pois já falamos sobre este
 ponto, porém deixo aqui mais um opção para análise:
 
 ``` r
@@ -603,7 +603,7 @@ pontos para esta empresa:
     cumpridos, pois os funcionários que não exerceram esse direito tem
     mais chance de saída.
 
-No mais, a empresa deve também dar mais atenão à satisfação de seus
+No mais, a empresa deve também dar mais atenção à satisfação de seus
 colaboradores e rever o processo de avalição de performance para
 verificar se este está sendo devidamente coerente.
 
